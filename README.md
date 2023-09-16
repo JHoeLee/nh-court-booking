@@ -2,11 +2,7 @@
 Credits to Yong Jin
 
 ## Download the code (only do once)
-### Option 1:
 Download zip file
-
-### Option 2:
-    git clone nh-court-booking
 
 ## Installation & Setup (only do once)
 ### Edit (username) and (password)
