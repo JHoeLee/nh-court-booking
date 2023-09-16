@@ -11,4 +11,5 @@ Download zip file
 
 ## Run the code from 11.50pm - 11.59pm (repeat whenever you need to book)
 ### Disclaimer: the code will book the court 1 week from current date
+    cd nh-court-booking
     python book.py --time 10 --court 6 
