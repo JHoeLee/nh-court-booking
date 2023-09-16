@@ -9,7 +9,7 @@ Download zip file
     cd nh-court-booking && pip install selenium
     echo username@student.main.ntu.edu.sg > login.txt & echo password >> login.txt
 
-## Run the code from 11.50pm - 11.59pm (repeat whenever you need to book)
+## Run the code anytime between 11.50pm - 11.59pm (repeat when need to book)
 #### Disclaimer: the code will book the court 1 week from current date
     cd nh-court-booking
     python book.py --time 10 --court 6 
